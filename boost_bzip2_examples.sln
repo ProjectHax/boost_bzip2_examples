@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bzip2_compress", "bzip2_compress\bzip2_compress.vcxproj", "{F63F8E96-9348-44AE-9156-712D34716B98}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bzip2_decompress", "bzip2_decompress\bzip2_decompress.vcxproj", "{A6783BDB-5F16-4CF7-9173-C887809A7B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63F8E96-9348-44AE-9156-712D34716B98}.Debug|Win32.ActiveCfg = Release|Win32
+		{F63F8E96-9348-44AE-9156-712D34716B98}.Debug|Win32.Build.0 = Release|Win32
+		{F63F8E96-9348-44AE-9156-712D34716B98}.Release|Win32.ActiveCfg = Release|Win32
+		{F63F8E96-9348-44AE-9156-712D34716B98}.Release|Win32.Build.0 = Release|Win32
+		{A6783BDB-5F16-4CF7-9173-C887809A7B6C}.Debug|Win32.ActiveCfg = Release|Win32
+		{A6783BDB-5F16-4CF7-9173-C887809A7B6C}.Debug|Win32.Build.0 = Release|Win32
+		{A6783BDB-5F16-4CF7-9173-C887809A7B6C}.Release|Win32.ActiveCfg = Release|Win32
+		{A6783BDB-5F16-4CF7-9173-C887809A7B6C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
